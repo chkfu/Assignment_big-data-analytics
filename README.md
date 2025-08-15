@@ -2,7 +2,7 @@
 MSc Computer Science course assignment involving Python-based data cleaning, feature engineering, and statistical analysis. Built and evaluated a random forest model to classify outcomes and extract insights from real-world datasets.
 
 
-##(A)  Composition
+## (A)  Composition
 
 This folder contains several files:-
 
@@ -17,7 +17,7 @@ P.S. As required, the report (essay) has been submitted separately, alongside wi
 
 
 
-##(B)  Operation
+## (B)  Operation
 
 1. For ipynb file, please run the program for initialization. 
    Please be advised to run in Jupyter Notebook.
@@ -28,7 +28,7 @@ P.S. As required, the report (essay) has been submitted separately, alongside wi
 
 
 
-##(C)  Python Script Remarks
+## (C)  Python Script Remarks
 
 1.  Most diagrams have be inserted into our report. Please refers to the content of pdf file.
 2.  As required, word count of the reports are within 3000 words, following with:-
