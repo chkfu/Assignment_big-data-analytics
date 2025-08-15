@@ -12,8 +12,7 @@ This folder contains several files:-
 4. New Creation of cleaned test dataset  ([Answer] 1_general_csv_clean-data_testing.csv)
 5. Implementation of SQL-codes, task-2a specified.  ([Answer] apartment_for_rent_db.sql)
 6. Implementation of ER-Diagram, task-2a specified.  ([Answer] apartment_for_rent_erd.pdf)
-
-P.S. As required, the report (essay) has been submitted separately, alongside with the zip folder
+7. Report of data analytics. (final-report_big-data-analytics.pdf)
 
 
 
